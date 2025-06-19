@@ -85,6 +85,7 @@ lib/pycocotools/_mask.c
 lib/nms/cpu_nms.c
 
 output/*
+videos/*
 models/*
 log/*
 data/*
@@ -234,4 +235,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-*.Zone.Identifier
+*Zone.Identifier
